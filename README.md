@@ -1,5 +1,6 @@
 # Netflix-Clone
 Netflix Clone 
+
 This repository contains a simple HTML & CSS implementation of the Netflix login page. The clone aims to replicate the visual style and basic functionality of the original Netflix login interface.
 
 Features:
